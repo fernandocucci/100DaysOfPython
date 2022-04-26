@@ -4,6 +4,7 @@
 <br/><br/>
 I will use this repo to document my journey completing [this](https://www.udemy.com/course/100-days-of-code/) bootcamp
 <br/><br/>
+
 ## Beginner
 
 :date: [Day 001](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20001)  

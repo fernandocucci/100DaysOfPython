@@ -14,3 +14,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 002](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20002)  
 -> Data Types, Numbers, Operations, Type Conversion, f-Strings<br/>
 -> Project: Tip Calculator
+
+:date: [Day 003](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20003)  
+-> Conditional Statements, Logical Operators, Code Blocks and Scope<br/>
+-> Project: Treasure Island

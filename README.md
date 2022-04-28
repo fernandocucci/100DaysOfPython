@@ -18,3 +18,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 003](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20003)  
 -> Conditional Statements, Logical Operators, Code Blocks and Scope<br/>
 -> Project: Treasure Island
+
+:date: [Day 004](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20004)  
+-> ?<br/>
+-> Project: ?

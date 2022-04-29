@@ -20,5 +20,5 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Treasure Island
 
 :date: [Day 004](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20004)  
--> ?<br/>
--> Project: ?
+-> Randomisation and Python Lists<br/>
+-> Project: Rock Paper Sissors

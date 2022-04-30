@@ -1,5 +1,5 @@
 print('==========================================')
-print('| Day 004 - Project: ?                   |')
+print('| Day 004 - Project: Rock Paper Sissors  |')
 print('==========================================')
 
 import random

@@ -1,3 +1,3 @@
 print('==========================================')
-print('| Day 005 - Project: ?                   |')
+print('| Day 005 - Project: Password Generator  |')
 print('==========================================')

@@ -24,8 +24,8 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Rock Paper Sissors
 
 :date: [Day 005](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20005)  
--> ?<br/>
--> Project: ?
+-> For Loops, Range and Code Blocks<br/>
+-> Project: Create a Password Generator
 
 :date: [Day 006](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20006)  
 -> ?<br/>

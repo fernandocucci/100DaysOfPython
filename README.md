@@ -28,5 +28,5 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Create a Password Generator
 
 :date: [Day 006](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20006)  
--> ?<br/>
--> Project: ?
+-> Functions, Code Blocks, While loops<br/>
+-> Project: Escaping the Maze

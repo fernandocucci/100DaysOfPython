@@ -32,5 +32,5 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Escaping the Maze
 
 :date: [Day 007](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20007)  
--> ?<br/>
--> Project: ?
+-> Consolidation project<br/>
+-> Project: Hangman

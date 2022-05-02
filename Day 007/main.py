@@ -76,30 +76,28 @@ HANGMANPICS = ['''
 =========''']
 
 
-current = 1
+current = 0
 word_list = ["happened", "night", "citizen", "kane", "wizard", "modern", "times", "black", "panther", "parasite", "avengers"]
 answer = random.choice(word_list)
 answer_list = list(answer)
 
 logo()
-print(HANGMANPICS[0])
-
 hint = hint_generator(len(answer))
 
-while current < 7:
+while current < 6:
+    print(HANGMANPICS[current])
+    print("".join(hint))
     guess = input("Guess a Letter: ")
     if guess in answer:
         # find occurences and replace in hint
         for pos, char in enumerate(answer):
              if char == guess:
                  hint[pos] = guess
-        print("".join(hint))
         if (answer == "".join(hint)):
-            print("*** You Won! ***")
+            print(f"*** You Won!. The word was: {answer} ***")
             break
     else:
-        print(HANGMANPICS[current])
-        print("".join(hint))
         current += 1
-        if current == 7:
+        if current == 6:
+            print(HANGMANPICS[current])
             print(f"You Lost!. The word was: {answer}")

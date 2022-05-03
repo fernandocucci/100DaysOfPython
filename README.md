@@ -36,5 +36,5 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Hangman
 
 :date: [Day 008](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20008)  
--> ?<br/>
--> Project: ?
+-> Functions with Inputs<br/>
+-> Project: Caesar Cipher

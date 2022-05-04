@@ -38,3 +38,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 008](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20008)  
 -> Functions with Inputs<br/>
 -> Project: Caesar Cipher
+
+:date: [Day 009](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20009)  
+-> ?<br/>
+-> Project: ?

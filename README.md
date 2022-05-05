@@ -42,3 +42,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 009](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20009)  
 -> Dictionaries and Nesting<br/>
 -> Project: Secret Auction Program
+
+:date: [Day 010](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20010)  
+-> ?<br/>
+-> Project: ?

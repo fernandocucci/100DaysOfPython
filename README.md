@@ -46,3 +46,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 010](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20010)  
 -> ?<br/>
 -> Project: ?
+
+:date: [Day 011](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20011)  
+-> ?<br/>
+-> Project: ?

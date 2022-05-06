@@ -44,8 +44,8 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Secret Auction Program
 
 :date: [Day 010](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20010)  
--> ?<br/>
--> Project: ?
+-> Functions with Outputs<br/>
+-> Project: Calculator
 
 :date: [Day 011](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20011)  
 -> ?<br/>

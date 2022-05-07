@@ -50,3 +50,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 011](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20011)  
 -> Consolidation Project<br/>
 -> Project: Blackjack Capstone Project
+
+:date: [Day 012](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20012)  
+-> ?<br/>
+-> Project: ?

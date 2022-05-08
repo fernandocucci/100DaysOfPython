@@ -56,5 +56,5 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Guessing Game
 
 :date: [Day 013](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20013)  
--> ?<br/>
--> Project: ?
+-> Debugging<br/>
+-> Project: Debugging

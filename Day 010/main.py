@@ -1,22 +1,22 @@
-#==========================================
+# ==========================================
 # Day 010 - Project: Calculator
-#==========================================
+# ==========================================
 
 def calculate(n1, n2, op):
     match op:
-            case '+':
-                return n1 + n2
-            case '-':
-                return n1 - n2
-            case '/':
-                if n2 != 0:
-                    return n1 / n2
-                else:
-                    return "Error - You cannot divde by Zero"
-            case '*':
-                return n1 * n2                
-            case _:        
-                return "Error - Operator not found"
+        case '+':
+            return n1 + n2
+        case '-':
+            return n1 - n2
+        case '/':
+            if n2 != 0:
+                return n1 / n2
+            else:
+                return "Error - You cannot divde by Zero"
+        case '*':
+            return n1 * n2
+        case _:
+            return "Error - Operator not found"
 
 
 option = ""

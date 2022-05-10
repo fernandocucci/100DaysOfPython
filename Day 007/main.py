@@ -1,8 +1,9 @@
-#==========================================
+# ==========================================
 # Day 007 - Project: Hangman             
-#==========================================
+# ==========================================
 
 import random
+
 
 def logo():
     print("""
@@ -15,6 +16,7 @@ def logo():
                         __/ |                      
                         |___/                       
     """)
+
 
 def hint_generator(int):
     hint = ""
@@ -75,9 +77,9 @@ HANGMANPICS = ['''
       |
 =========''']
 
-
 current = 0
-word_list = ["happened", "night", "citizen", "kane", "wizard", "modern", "times", "black", "panther", "parasite", "avengers"]
+word_list = ["happened", "night", "citizen", "kane", "wizard", "modern", "times", "black", "panther", "parasite",
+             "avengers"]
 answer = random.choice(word_list)
 answer_list = list(answer)
 
@@ -91,8 +93,8 @@ while current < 6:
     if guess in answer:
         # find occurences and replace in hint
         for pos, char in enumerate(answer):
-             if char == guess:
-                 hint[pos] = guess
+            if char == guess:
+                hint[pos] = guess
         if (answer == "".join(hint)):
             print(f"*** You Won!. The word was: {answer} ***")
             break

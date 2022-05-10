@@ -63,6 +63,8 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Higher or Lower<br/>
 -> Project: Consolidation Project
 
+## Intermediate
+
 :date: [Day 015](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20015)  
--> ?<br/>
--> Project: ?
+-> <br/>
+-> Project: Coffee Machine Code

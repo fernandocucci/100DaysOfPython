@@ -1,19 +1,21 @@
-#==========================================
+# ==========================================
 # Day 011 - Project: Black Jack
-#==========================================
+# ==========================================
 import random
 import os
 
-cards = ["A","2","3","4","5","6","7","8","9","10","J","Q","K"]
+cards = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
+
 
 def cls():
-    os.system('cls' if os.name=='nt' else 'clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
+
 
 def deal_card(cant, current_cards):
     for _ in range(cant):
         card = random.choice(cards)
         current_cards.append(card)
-        
+
     return current_cards
 
 
@@ -22,7 +24,7 @@ def sum_cards(cards):
     for c in cards:
         if (c == 'J') or (c == 'Q') or (c == 'K'):
             sum_value += 10
-        elif (c=='A'):
+        elif (c == 'A'):
             sum_value += 11
         else:
             sum_value += int(c)

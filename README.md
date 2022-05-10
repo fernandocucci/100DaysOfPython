@@ -60,8 +60,8 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Debugging
 
 :date: [Day 014](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20014)  
--> ?<br/>
--> Project: ?
+-> Higher or Lower<br/>
+-> Project: Consolidation Project
 
 :date: [Day 015](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20015)  
 -> ?<br/>

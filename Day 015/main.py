@@ -29,6 +29,12 @@ def get_coins():
     return total
 
 
+def update_resources(drink, available_res):
+    for i in MENU[drink]["ingredients"]:
+        available_res[i] -= MENU[drink]["ingredients"][i]
+    available_res["money"] += MENU[drink]["cost"]
+
+
 choice = ""
 resources["money"] = float(0)
 has_res = True
@@ -44,6 +50,15 @@ while choice != "off":
         has_res, message = check_resources(choice, resources)
         if has_res:
             coins = get_coins()
+            current_cost = MENU[choice]["cost"]
+            if coins >= current_cost:
+                if coins > current_cost:
+                    your_change = coins - current_cost
+                    print(f"Please take your change ${round(your_change, 2)}")
+                update_resources(choice, resources)
+                print("Enjoy your drink!")
+            else:
+                print("Sorry, you don't have enough money. Returning money ...")
         else:
             print(f"Sorry there is no enough {message}")
 

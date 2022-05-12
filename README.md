@@ -70,5 +70,9 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Consolidation Project
 
 :date: [Day 016](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20016)  
--> <br/>
+-> Oriented Object Programming<br/>
+-> Project: Coffee Machine (OOP Version)
+
+:date: [Day 017](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20016)  
+-> ?<br/>
 -> Project: ?

@@ -74,5 +74,9 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Coffee Machine (OOP Version)
 
 :date: [Day 017](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20016)  
+-> Creating Classes<br/>
+-> Project: QuizBrain Trivia
+
+:date: [Day 018](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20018)  
 -> ?<br/>
 -> Project: ?

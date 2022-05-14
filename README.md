@@ -80,3 +80,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 :date: [Day 018](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20018)  
 -> Turtle Graphics, Tuples and Importing Modules<br/>
 -> Project: ?
+
+:date: [Day 019](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20019)  
+-> ?<br/>
+-> Project: ?

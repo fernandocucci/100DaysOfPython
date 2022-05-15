@@ -82,5 +82,9 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: ?
 
 :date: [Day 019](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20019)  
+-> More Turtle Graphics, Event Listeners, State and Multiple Instances<br/>
+-> Project: Turtle Racing Game
+
+:date: [Day 020](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20020)  
 -> ?<br/>
 -> Project: ?

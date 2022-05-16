@@ -79,7 +79,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 
 :date: [Day 018](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20018)  
 -> Turtle Graphics, Tuples and Importing Modules<br/>
--> Project: ?
+-> Project: The Hirst Painting
 
 :date: [Day 019](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20019)  
 -> More Turtle Graphics, Event Listeners, State and Multiple Instances<br/>

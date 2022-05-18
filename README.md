@@ -86,7 +86,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Turtle Racing Game
 
 :date: [Day 020](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20020)  
--> ?<br/>
+-> Consolidation Project<br/>
 -> Project: Snake
 
 :date: [Day 021](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20021)  
@@ -94,5 +94,9 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: ?
 
 :date: [Day 022](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20022)  
+-> ?<br/>
+-> Project: ?
+
+:date: [Day 023](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20023)  
 -> ?<br/>
 -> Project: ?

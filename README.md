@@ -90,13 +90,17 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Snake
 
 :date: [Day 021](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20021)  
--> ?<br/>
--> Project: ?
+-> Consolidation Project<br/>
+-> Project: Snake Game Part 2
 
 :date: [Day 022](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20022)  
 -> ?<br/>
 -> Project: ?
 
 :date: [Day 023](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20023)  
+-> ?<br/>
+-> Project: ?
+
+:date: [Day 024](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20024)  
 -> ?<br/>
 -> Project: ?

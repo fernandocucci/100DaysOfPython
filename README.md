@@ -90,7 +90,7 @@ I will use this repo to document my journey completing [this](https://www.udemy.
 -> Project: Snake
 
 :date: [Day 021](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20021)  
--> Consolidation Project<br/>
+-> Class inheritance<br/>
 -> Project: Snake Game Part 2
 
 :date: [Day 022](https://github.com/fernandocucci/100DaysOfPython/tree/main/Day%20022)  
